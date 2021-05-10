@@ -28,7 +28,7 @@ The session will also prompt discussants to respond to questions concerning the 
 
 ***Vineeta Singh*** is Assistant Clinical Professor in the Honors College at the University of Maryland. Prof. Singh will reflect upon her time as a Post-doctoral fellow for <a href="https://www.wm.edu/sites/lemonproject/" target="_blank">the Lemon Project</a> in the Omohundro Institute at the College of William & Mary. Singh's research concerns U.S. higher education as a site of contest in the Black freedom struggle, black feminist thought, and higher education history.
 
-***Avery J. Wiscomb*** is a PhD Candidate in Literary and Cultural Studies at Carnegie Mellon University. He has written on critical university issues for <a href="https://www.chronicle.com/article/how-silicon-valley-exploits-students-and-their-universities/" target="_blank">*The Chronicle of Higher Education*</a>, and <a href="https://www.jacobinmag.com/2016/05/entrepreneurship-innovation-toyotism-college-startups" target="_blank">*Jacobin*</a>. He will discuss...
+***Avery J. Wiscomb*** is a PhD Candidate in Literary and Cultural Studies at Carnegie Mellon University. He has written on critical university issues for <a href="https://www.chronicle.com/article/how-silicon-valley-exploits-students-and-their-universities/" target="_blank">*The Chronicle of Higher Education*</a>, and <a href="https://www.jacobinmag.com/2016/05/entrepreneurship-innovation-toyotism-college-startups" target="_blank">*Jacobin*</a>. He will discuss the potential limitations of abolitionist demands, and radical alternatives for pursuing institutional change.
 
 <div align="center">
   <h2>Format & Materials</h2>
@@ -42,8 +42,8 @@ Materials have been grouped thematically, so that attendees might pursue whichev
 
 #### The University, the end?
 - <a href="https://abolition.university/wp-content/uploads/2019/08/Abolitionist-University-Studies_-An-Invitation-Release-1-version.pdf" target="_blank">"Abolitionist University Studies: An Invitation" — Abigail Boggs, Eli Meyerhoff, Nick Mitchell, and Zach Schwartz-Weinstein</a>
-- <a href="https://www.youtube.com/watch?v=zqWMejD_XU8" target="_blank">"the university: last words" — Fred Moten and Stefano Harney</a>[](https://www.youtube.com/watch?v=zqWMejD_XU8)
-- Avery suggestion
+- <a href="https://anthropology.fas.harvard.edu/files/anthrodept/files/the_university_last_words_fred_moten_and_stefano_harney.pdf" target="_blank">"the university: last words" — Fred Moten and Stefano Harney</a>
+  - <a href="https://www.youtube.com/watch?v=zqWMejD_XU8" target="_blank">Virtual Conversation w/ Fred Moten and Stefano Harvey for FUC
 
 #### Abolition and Decolonization
 - <a href="https://www.academia.edu/37026360/Refusing_the_University" target="_blank">"Refusing the University" — Sandy Grande</a>
