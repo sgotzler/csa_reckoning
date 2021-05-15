@@ -36,7 +36,7 @@ To engage these questions, the round table discussants will each present brief p
 
 Materials have been grouped thematically, so that attendees might pursue whichever area of discussion interests them most. However, conference participants attending the round table are encouraged to explore at least one document from each set of resources as primers beforehand.
 
-***NOTE*** Access to some materials may require institutional log-in. If you have trouble gaining access to any of the readings please contact the [session chair](mailto:sgotzler@andrew.cmu.edu).
+***NOTE*** Access to some materials may require institutional log-in. If you have trouble gaining access to any of the readings please contact the session chair, [Steve Gotzler](mailto:sgotzler@andrew.cmu.edu).
 
 #### The University, the end?
 - <a href="https://abolition.university/wp-content/uploads/2019/08/Abolitionist-University-Studies_-An-Invitation-Release-1-version.pdf" target="_blank">"Abolitionist University Studies: An Invitation" — Abigail Boggs, Eli Meyerhoff, Nick Mitchell, and Zach Schwartz-Weinstein</a>
