@@ -1,8 +1,8 @@
-title: Abolition and the University
-description: A Round Table Discussion — CSA 2021
+title: Reckoning with Racial Fascism
+description: A Seminar in Theories of Cultural Studies — CSA 2022
 
-url: http://sgotzler.github.com/abolition-uni
-baseurl: "/abolition-uni"
+url: http://sgotzler.github.com/reckoning-csa
+baseurl: "/reckoning-csa"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -14,7 +14,7 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Cultural Studies Association (U.S.) — 19th Annual Conference, 2021
+  - title: Cultural Studies Association (U.S.) — 20th Annual Conference, 2022
     url: https://www.culturalstudiesassociation.org/conference.html
 
 social:
