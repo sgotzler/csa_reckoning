@@ -30,24 +30,25 @@ Seminar readings will be drawn from across historical periods and intellectual t
 
 ***NOTE*** Access to some materials may require institutional log-in. If you have trouble gaining access to any of the readings please contact the session chair, [Steve Gotzler](mailto:sgotzler@andrew.cmu.edu).
 
-#### Anti-Fascist Theory in the Historical Conjuncture (e.g., Padmore, Jones, Wilson-Gilmore, Kleever?)
-- <a href="https://abolition.university/wp-content/uploads/2019/08/Abolitionist-University-Studies_-An-Invitation-Release-1-version.pdf" target="_blank">"Abolitionist University Studies: An Invitation" — Abigail Boggs, Eli Meyerhoff, Nick Mitchell, and Zach Schwartz-Weinstein</a>
-- <a href="https://anthropology.fas.harvard.edu/files/anthrodept/files/the_university_last_words_fred_moten_and_stefano_harney.pdf" target="_blank">"the university: last words" — Fred Moten and Stefano Harney</a>
-  - <a href="https://www.youtube.com/watch?v=zqWMejD_XU8" target="_blank">Virtual Conversation w/ Fred Moten and Stefano Harvey for FUC
+#### Anti-Fascist Theory in the Historical Conjuncture 
+- Padmore, James / Gramsci? -- pre-war/wartime
+- Jones, Kleever & BPP? -- postwar
+- Wilson-Gilmore -- 90s?
+- Toscano -- C21
 
-#### Anti-Colonialism, Anti-Fascism, and Black Radical Thought (i.e., Fanon, Cesaire, Robinson)
-- <a href="https://www.academia.edu/37026360/Refusing_the_University" target="_blank">"Refusing the University" — Sandy Grande</a>
-- <a href="https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf" target="_blank">"Decolonization is not a metaphor" — Eve Tuck and K. Wayne Yang</a>
-- <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/anti.12615" target="_blank">"Slavery is a Metaphor: A Critical Commentary on Eve Tuck and K. Wayne Yang's 'Decolonization is not a metaphor'" - Tapji Garba and Sara-Maria Sorentino</a>
+#### Anti-Colonialism/Anti-Fascism 
+- Black Radical Thought (i.e., Fanon, Cesaire, Robinson)
 
-#### Anti-Rascism, Anti-Fascism, and British Cultural Studies (e.g., Hall, Gilroy, Policing the Crisis)
-- <a href="https://www.youtube.com/watch?v=uJZ3RPJ2rNc" target="_blank">"Abolitionist Teaching and the Future of Our Schools" - A conversation with Bettina Love, Gholdy Muhammad, Dena Simmons and Brian Jones</a>
-- <a href="https://jeffreymoro.com/blog/2020-02-13-against-cop-shit/" target="_blank">"Against Cop Shit" — Jeffrey Moro</a>
-- <a href="https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/" target="_blank">The Standing Rock Syllabus — NYC Stands With Standing Rock</a>
+#### Anti-Rascism, Anti-Fascism, and British Cultural Studies 
+- (e.g., Hall, Gilroy, Policing the Crisis)
+
   
 <div align="center">
   <h2>Seminar Participants</h2>
 </div>
+
+#### Call For Participants
+*ADD CFP*
 
 ***Adam Ahlgrim*** PhD Candidate in English, Duquesne University
 
