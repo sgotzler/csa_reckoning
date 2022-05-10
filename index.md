@@ -53,4 +53,4 @@ Materials have been grouped thematically, so that attendees might pursue whichev
 
 ***Sparkles Sanford*** PhD Candidate in Philosophy, Duquesne University 
 
-***Steven Gotzler*** PhD in Literary and Cultural Studies, Special Faculty, Carnegie Mellon University
+***Steven Gotzler*** Special Faculty, Carnegie Mellon University
