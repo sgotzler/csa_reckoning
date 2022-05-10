@@ -12,7 +12,7 @@ title: Reckoning with Racial Fascism
   <h4> <a href="https://docs.google.com/document/d/18HEW_27VDtM16T-CtSQkqi6ZSH8nTQ_nRAT15qp1G8c/edit#bookmark=id.gdr07gurzxlu" target="_blank"> Friday, June 11th, 2021 — Session A (10:00-11:30AM CDT)</a></h4>
 </div>
 
-  Cultural Studies, Black Radicalism, and the Continuities of Anti-Fascist Theory
+  *Cultural Studies, Black Radicalism, and the Continuities of Anti-Fascist Theory*
 
 This seminar  invites participants to consider the continuities of critique in the history of Black radical thought and British cultural studies, especially as regards the analysis of historical fascism and new right movements in the writing of figures whose work has been influential across both of these traditions.
 
