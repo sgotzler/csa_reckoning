@@ -8,7 +8,7 @@ title: Reckoning with Racial Fascism
 </div>
 
 <div align="center">
-  <h2>A Seminar in Theories of Cultural Studies/h2>
+  <h2>A Seminar in Theories of Cultural Studies</h2>
   <h4> <a href="https://docs.google.com/document/d/18HEW_27VDtM16T-CtSQkqi6ZSH8nTQ_nRAT15qp1G8c/edit#bookmark=id.gdr07gurzxlu" target="_blank"> Friday, June 11th, 2021 — Session A (10:00-11:30AM CDT)</a></h4>
 </div>
 
