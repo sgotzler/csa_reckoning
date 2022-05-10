@@ -24,23 +24,23 @@ In recent years,  these connections between Black radicalism and anti-fascism ha
   <h2>Format & Materials</h2>
 </div>
 
-To engage these questions, the round table discussants will each present brief prepared remarks designed to spur discussion in-common with each other (45min), before the conversation is opened up for participation from the audience (45 min). These remarks will be prepared in response to a group of shared readings and materials found below.
+This seminar, therefore, asks participants to consider how each of these traditions can speak not only to each other, but how they continue to speak to us now, offering insights of critique that might guide our attempts to theorize the persistence of racial fascism as a feature of the current conjuncture, and especially as it relates to the unfolding crises of capital we are experiencing in the present, (e.g., in social reproduction, climate change, and public health).
 
-Materials have been grouped thematically, so that attendees might pursue whichever area of discussion interests them most. However, conference participants attending the round table are encouraged to explore at least one document from each set of resources as primers beforehand.
+Seminar readings will be drawn from across historical periods and intellectual traditions. The texts below have been grouped according to ______. Participants are encouraged to read both within and across these different clusters, and are invited to submit questions for discussion to the seminar organizers [Steve Gotzler](mailto:sgotzler@andrew.cmu.edu), [Adam Ahlgrim](mailto:ahlgrima@duq.edu), and [Sparkles Sanford](mailto:38publishing@gmail.com).
 
 ***NOTE*** Access to some materials may require institutional log-in. If you have trouble gaining access to any of the readings please contact the session chair, [Steve Gotzler](mailto:sgotzler@andrew.cmu.edu).
 
-#### The University, the end?
+#### Anti-Fascist Theory in the Historical Conjuncture (e.g., Padmore, Jones, Wilson-Gilmore, Kleever?)
 - <a href="https://abolition.university/wp-content/uploads/2019/08/Abolitionist-University-Studies_-An-Invitation-Release-1-version.pdf" target="_blank">"Abolitionist University Studies: An Invitation" — Abigail Boggs, Eli Meyerhoff, Nick Mitchell, and Zach Schwartz-Weinstein</a>
 - <a href="https://anthropology.fas.harvard.edu/files/anthrodept/files/the_university_last_words_fred_moten_and_stefano_harney.pdf" target="_blank">"the university: last words" — Fred Moten and Stefano Harney</a>
   - <a href="https://www.youtube.com/watch?v=zqWMejD_XU8" target="_blank">Virtual Conversation w/ Fred Moten and Stefano Harvey for FUC
 
-#### Abolition and Decolonization
+#### Anti-Colonialism, Anti-Fascism, and Black Radical Thought (i.e., Fanon, Cesaire, Robinson)
 - <a href="https://www.academia.edu/37026360/Refusing_the_University" target="_blank">"Refusing the University" — Sandy Grande</a>
 - <a href="https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf" target="_blank">"Decolonization is not a metaphor" — Eve Tuck and K. Wayne Yang</a>
 - <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/anti.12615" target="_blank">"Slavery is a Metaphor: A Critical Commentary on Eve Tuck and K. Wayne Yang's 'Decolonization is not a metaphor'" - Tapji Garba and Sara-Maria Sorentino</a>
 
-#### Abolitionist Pedagogies
+#### Anti-Rascism, Anti-Fascism, and British Cultural Studies (e.g., Hall, Gilroy, Policing the Crisis)
 - <a href="https://www.youtube.com/watch?v=uJZ3RPJ2rNc" target="_blank">"Abolitionist Teaching and the Future of Our Schools" - A conversation with Bettina Love, Gholdy Muhammad, Dena Simmons and Brian Jones</a>
 - <a href="https://jeffreymoro.com/blog/2020-02-13-against-cop-shit/" target="_blank">"Against Cop Shit" — Jeffrey Moro</a>
 - <a href="https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/" target="_blank">The Standing Rock Syllabus — NYC Stands With Standing Rock</a>
@@ -53,4 +53,4 @@ Materials have been grouped thematically, so that attendees might pursue whichev
 
 ***Sparkles Sanford*** PhD Candidate in Philosophy, Duquesne University 
 
-***Steven Gotzler*** Special Faculty, Carnegie Mellon University
+***Steve Gotzler*** Special Faculty, Carnegie Mellon University
