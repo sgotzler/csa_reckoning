@@ -1,8 +1,8 @@
 title: Reckoning with Racial Fascism
 description: A Seminar in Theories of Cultural Studies — CSA 2022
 
-url: http://sgotzler.github.com/reckoning-csa
-baseurl: "/reckoning-csa"
+url: http://sgotzler.github.com/csa_reckoning
+baseurl: "/csa_reckoning"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
