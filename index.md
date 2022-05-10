@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Abolition and the University
+title: Reckoning with Racial Fascism
 ---
 
 <div class="home" id="home">
@@ -8,25 +8,17 @@ title: Abolition and the University
 </div>
 
 <div align="center">
-  <h2>A Round Table Discussion</h2>
+  <h2>A Seminar in Theories of Cultural Studies/h2>
   <h4> <a href="https://docs.google.com/document/d/18HEW_27VDtM16T-CtSQkqi6ZSH8nTQ_nRAT15qp1G8c/edit#bookmark=id.gdr07gurzxlu" target="_blank"> Friday, June 11th, 2021 — Session A (10:00-11:30AM CDT)</a></h4>
 </div>
 
-Engaging with this year’s theme of “Anti-Bodies” the round table will explore the potentialities, and the limitations, of abolitionist politics within the university. The anti-capitalist and anti-racist demands for transformative justice of abolitionism seeks to recognize and redress the ongoing social consequences of the university’s historical provenance within the practices of settler colonialism, enslavement, and monopoly capital.
+  Cultural Studies, Black Radicalism, and the Continuities of Anti-Fascist Theory
 
-Bringing together several scholars whose work sits at the intersection of radical history, decolonial critique, and critical university studies, the round table will ask us to consider questions such as: What does it mean to take an abolitionist approach to the university? What gets lost if we don’t see the university from the perspective of abolitionism? And what is to be gained?
+This seminar  invites participants to consider the continuities of critique in the history of Black radical thought and British cultural studies, especially as regards the analysis of historical fascism and new right movements in the writing of figures whose work has been influential across both of these traditions.
 
-The session will also prompt discussants to respond to questions concerning the practical realization of abolitionism in the university today, for instance exploring: What unique challenges does the terrain of an institution like the university present, when compared with other more repressive state apparatuses subjected to abolitionist critique such as prisons and policing? What pitfalls await demands for abolition in the wake of the widespread austerity measures sweeping higher education since the outbreak of COVID-19? How can we push to realize university abolition in practical terms, through our labor as instructors, faculty members, advisors, graduate students, and scholars?
+Black radical thinkers have often noted the historical links between colonialism and fascism, highlighting the ways in which fascist machinations of terror and genocide were first pioneered as methods of colonial repression, for example the British concentration camps created in South Africa during the Second Boer War which killed tens of thousands of Africans and recalcitrant Dutch Boer settlers. Cases like these lend credence to Aimee Cesaire’s oft-cited assertion that fascism is an expression of the violence of imperialist powers turned inward. Moreover, Black radical intellectuals, such as those associated with the Pan-African movement in Britain during the thirties and forties, or the Black Panther Party in the US during the late sixties and seventies have often been at the forefront of anti-fascist struggle.
 
-<div align="center">
-  <h2>Discussants</h2>
-</div>
-
-***Roopika Risam*** is Chair of Secondary and Higher Education and Associate Professor of Education and English at Salem State University. Prof. Risam will approach the topic through her experience developing collaborative digital interventions like <a href="http://xpmethod.columbia.edu/torn-apart/volume/2/index" target="_blank">*Torn Apart/Separados*</a> through the <a href="https://xpmethod.columbia.edu/torn-apart/credits.html" target="_blank">Mobilized Humanities (MH)</a>, and will discuss possibilities for enacting abolitionist digital pedagogies in the classroom.
-
-***Abigail Boggs*** is Assistant Professor of Sociology at Wesleyan University. Prof. Boggs will respond to these questions in light of her work with <a href="https://abolition.university/" target="_blank">the Abolition University Project</a>, and as a co-author of the piece, “Abolitionist University Studies: An Invitation,” and will discuss feminist and queer approaches to critical university studies.
-
-***Vineeta Singh*** is Assistant Teaching Professor of Interdisciplinary Studies at Virginia Commonwealth University. Prof. Singh will reflect upon her time as a postdoctoral fellow for <a href="https://www.wm.edu/sites/lemonproject/" target="_blank">The Lemon Project: A Journey of Reconciliation</a> at the College of William & Mary, and share how her research in black feminist thought and critical university studies inform her <a href="https://amsj.blog/2021/03/26/on-grading-2/" target="_blank">classroom practice</a>.
+In recent years,  these connections between Black radicalism and anti-fascism have been highlighted by critical theorists like Alberto Toscano (“The Long Shadow of Racial Fascism”). However, connections between critiques of neo-fascist cultural insurgencies today, and the work of the Birmingham school have been less widely explored.  For example, in the writing of figures like Paul Gilroy, Hazel Carby, Errol Lawrence, and of course Stuart Hall, whose contributions to familiar cultural studies texts such as The Empire Strikes Back: Race and Racism in Britain, and Policing the Crisis present conjunctural analyses of emergent new right movements and the rise of Thatcherism during the seventies and eighties that  remain relevant today. 
 
 <div align="center">
   <h2>Format & Materials</h2>
@@ -52,3 +44,13 @@ Materials have been grouped thematically, so that attendees might pursue whichev
 - <a href="https://www.youtube.com/watch?v=uJZ3RPJ2rNc" target="_blank">"Abolitionist Teaching and the Future of Our Schools" - A conversation with Bettina Love, Gholdy Muhammad, Dena Simmons and Brian Jones</a>
 - <a href="https://jeffreymoro.com/blog/2020-02-13-against-cop-shit/" target="_blank">"Against Cop Shit" — Jeffrey Moro</a>
 - <a href="https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/" target="_blank">The Standing Rock Syllabus — NYC Stands With Standing Rock</a>
+  
+<div align="center">
+  <h2>Seminar Participants</h2>
+</div>
+
+***Adam Ahlgrim*** PhD Candidate in English, Duquesne University
+
+***Sparkles Sanford*** PhD Candidate in Philosophy, Duquesne University 
+
+***Steven Gotzler*** PhD in Literary and Cultural Studies, Special Faculty, Carnegie Mellon University
