@@ -31,23 +31,23 @@ Seminar readings will be drawn from across historical periods and intellectual t
 - **(2) key documents from the Black radical tradition, and especially related to anti-colonial thought, which take up the question of fascism.**
 - **(3) documents from the Birmingham school addressing the rise of new right movements under Thatcher and anti-racist struggles in Britain.**
 
-***NOTE*** Access to some materials may require institutional log-in. If you have trouble gaining access to any of the readings please contact the session chair, [Steve Gotzler](mailto:sgotzler@andrew.cmu.edu).
-
-#### Anti-Fascist Theory in the Historical Conjuncture [#ADD LINKS]
+#### Anti-Fascist Theory in the Historical Conjuncture
 - George Padmore, "Fascism in the Colonies" (1938), and "Hitler, Mussolini and Africa" (1937)
 - Claudia Jones, "An End to the Neglect of the Problems of Negro Women" (1949)
 - BPP / United Front Against Fascism (1968-1970)
 - Ruth Wilson-Gilmore "Terror Austerity Race Gender Excess Theater" (1993)
 - Alberto Toscano "Incipient Fascism: Black Radical Perspectives" (2021)
 
-#### Anti-Colonialism and/as Anti-Fascism  [#ADD LINKS]
-- Aimee Cesaire, from *Discourse on Colonialism* (XXXX)
-- Cedric J. Robinson, "Fascism and the Intersections of Capialism, Racialism, and Historical Consciousness" (2019/?)
+#### Anti-Colonialism and/as Anti-Fascism 
+- Aimeé Césaire, from *Discourse on Colonialism* (1950)
+- Cedric J. Robinson, "Fascism and the Intersections of Capialism, Racialism, and Historical Consciousness" (1983)
 
-#### Thatcherism, Anti-Rascism, and British Cultural Studies [#ADD LINKS]
+#### Thatcherism, Anti-Rascism, and British Cultural Studies 
 - Stuart Hall, "The Great Moving Right Show" (1979)
-- Stuart Hall, "Gramsci's Relevance for the Study of Race and Ethnicity" (1986)
+- Stuart Hall, "Gramsci's Relevance for the Study of Race and Ethnicity" (1986) 
 - Paul Gilroy, "Two Sides of Anti-Racism" (1987)
+
+***NOTE*** For access to the reading materials please contact the session chair, [Adam Ahlgrim](mailto:ahlgrima@duq.edu).
 
 <div align="center">
   <h2>Seminar Participants</h2>
