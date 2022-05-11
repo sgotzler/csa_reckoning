@@ -33,29 +33,30 @@ Seminar readings will be drawn from across historical periods and intellectual t
 
 ***NOTE*** Access to some materials may require institutional log-in. If you have trouble gaining access to any of the readings please contact the session chair, [Steve Gotzler](mailto:sgotzler@andrew.cmu.edu).
 
-#### Anti-Fascist Theory in the Historical Conjuncture 
+#### Anti-Fascist Theory in the Historical Conjuncture [#ADD LINKS]
+- George Padmore, "Fascism in the Colonies" (1938), and "Hitler, Mussolini and Africa" (1937)
+- Claudia Jones, "An End to the Neglect of the Problems of Negro Women" (1949)
+- BPP / United Front Against Fascism (1968-1970)
+- Ruth Wilson-Gilmore "Terror Austerity Race Gender Excess Theater" (1993)
+- Alberto Toscano "Incipient Fascism: Black Radical Perspectives" (2021)
 
-- Padmore, James / Gramsci? -- pre-war/wartime
-- Jones, Kleever & BPP? -- postwar
-- Wilson-Gilmore -- 90s?
-- Toscano -- C21
+#### Anti-Colonialism and/as Anti-Fascism  [#ADD LINKS]
+- Aimee Cesaire, from *Discourse on Colonialism* (XXXX)
+- Cedric J. Robinson, "Fascism and the Intersections of Capialism, Racialism, and Historical Consciousness" (2019/?)
 
-#### Anti-Colonialism and/as Anti-Fascism 
-
-- Black Radical Thought (i.e., Fanon, Cesaire, Robinson)
-
-#### Thatcherism, Anti-Rascism, and British Cultural Studies 
-- (e.g., Hall, Gilroy, Policing the Crisis)
-
+#### Thatcherism, Anti-Rascism, and British Cultural Studies [#ADD LINKS]
+- Stuart Hall, "The Great Moving Right Show" (1979)
+- Stuart Hall, "Gramsci's Relevance for the Study of Race and Ethnicity" (1986)
+- Paul Gilroy, "Two Sides of Anti-Racism" (1987)
 
 <div align="center">
   <h2>Seminar Participants</h2>
 </div>
 
 #### Call For Participants
-*ADD CFP*
+This seminar is open to all conference attendees, anyone interested in participating in the seminar should reach out to the organizers by May 25th, 2022 if they wish to have their name listed in the program.
 
-Participants are encouraged to read both within and across these different clusters, and are invited to submit questions for discussion to the seminar organizers [Steve Gotzler](mailto:sgotzler@andrew.cmu.edu), [Adam Ahlgrim](mailto:ahlgrima@duq.edu), and [Sparkles Sanford](mailto:38publishing@gmail.com).
+Participants are encouraged to read both within and across these different clusters of readings, and are also invited to submit questions for discussion to the seminar organizers [Steve Gotzler](mailto:sgotzler@andrew.cmu.edu), [Adam Ahlgrim](mailto:ahlgrima@duq.edu), and [Sparkles Sanford](mailto:38publishing@gmail.com).
 
 ***Adam Ahlgrim*** PhD Student in English, Duquesne University
 
