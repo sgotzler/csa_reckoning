@@ -52,8 +52,8 @@ Participants are encouraged to read both within and across these different clust
 #### Call For Participants
 *ADD CFP*
 
-***Adam Ahlgrim*** PhD Candidate in English, Duquesne University
+***Adam Ahlgrim*** PhD Student in English, Duquesne University
 
-***Sparkles Sanford*** PhD Candidate in Philosophy, Duquesne University 
+***Sparkles Stanford*** PhD Candidate in Philosophy, Duquesne University 
 
 ***Steve Gotzler*** Special Faculty, Carnegie Mellon University
