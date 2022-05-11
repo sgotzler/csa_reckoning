@@ -507,7 +507,7 @@ BUTTON DEFAULTS
   .button:hover, .button-secondary:hover, .button-tertiary:hover, .button__outline:hover, .button:focus, .button-secondary:focus, .button-tertiary:focus, .button__outline:focus {
     color: #fff;
     text-decoration: none;
-    background-color: #21653f; }
+    background-color: #D386DE; }
   .button:active, .button-secondary:active, .button-tertiary:active, .button__outline:active {
     top: 1px; }
 
