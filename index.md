@@ -26,7 +26,10 @@ In recent years,  these connections between Black radicalism and anti-fascism ha
 
 In this seminar, participants will consider how each of these traditions speaks not only to each other, but how they continue to speak to us now, offering insights of critique that might guide our attempts to theorize the persistence of racial fascism as a feature of the current conjuncture, and especially as it relates to the unfolding crises of capital we are experiencing in the present, (e.g., in social reproduction, climate change, and public health).
 
-Seminar readings will be drawn from across historical periods and intellectual traditions. The texts below have been grouped according to three overlapping but distinct organizing principles: (1) a collection of more timely and situated responses to racial fascist threats across the 20th and 21st centures; (2) key documents from the Black radical tradition, and especially related to anti-colonial thought, which take up the question of fascism; (3) documents from the Birmingham school addressing the rise of new right movements under Thatcher and anti-racist struggles in Britain.
+Seminar readings will be drawn from across historical periods and intellectual traditions. The texts below have been grouped according to three overlapping but distinct organizing principles: 
+- **(1)** a collection of more timely and situated responses to racial fascist threats across the 20th and 21st centures
+- **(2)** key documents from the Black radical tradition, and especially related to anti-colonial thought, which take up the question of fascism
+- **(3)** documents from the Birmingham school addressing the rise of new right movements under Thatcher and anti-racist struggles in Britain.
 
 Participants are encouraged to read both within and across these different clusters, and are invited to submit questions for discussion to the seminar organizers [Steve Gotzler](mailto:sgotzler@andrew.cmu.edu), [Adam Ahlgrim](mailto:ahlgrima@duq.edu), and [Sparkles Sanford](mailto:38publishing@gmail.com).
 
