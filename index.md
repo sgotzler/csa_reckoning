@@ -31,7 +31,7 @@ Seminar readings will be drawn from across historical periods and intellectual t
 - **(2) key documents from the Black radical tradition, and especially related to anti-colonial thought, which take up the question of fascism.**
 - **(3) documents from the Birmingham school addressing the rise of new right movements under Thatcher and anti-racist struggles in Britain.**
 
-#### Anti-Fascist Theory in the Historical Conjuncture
+#### Anti-Fascist Theory in Historical Conjuncture
 - George Padmore, "Fascism in the Colonies" (1938), and "Hitler, Mussolini and Africa" (1937)
 - Claudia Jones, "An End to the Neglect of the Problems of Negro Women" (1949)
 - BPP / United Front Against Fascism (1968-1970)
