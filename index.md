@@ -9,7 +9,7 @@ title: Reckoning with Racial Fascism
 
 <div align="center">
   <h2>A Seminar in Theories of Cultural Studies</h2>
-  <h4> <a href="https://docs.google.com/document/d/18HEW_27VDtM16T-CtSQkqi6ZSH8nTQ_nRAT15qp1G8c/edit#bookmark=id.gdr07gurzxlu" target="_blank"> Thursday, June 02nd, 2022 — Session E (03:00-04:30PM CDT)</a></h4>
+  <h4> <a href="https://docs.google.com/document/d/12nOORkM9zCmj69_ed7eBVbKyJrEbn-BY7gDTV0PWFtM/edit?pli=1" target="_blank"> Thursday, June 02nd, 2022 — Session E (03:00-04:30PM CDT)</a></h4>
 </div>
 
   *Cultural Studies, Black Radicalism, and the Continuities of Anti-Fascist Theory*
